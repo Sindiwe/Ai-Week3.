@@ -7,8 +7,6 @@ The assignment is structured into three main parts: Theoretical Understanding, P
 
 Tools & Resources Utilized Frameworks: TensorFlow, Scikit-learn, spaCy
 
-[If PyTorch was primarily used for Task 2, replace TensorFlow and adjust descriptions accordingly]
-
 Platforms: Google Colab, Jupyter Notebook
 
 Datasets: Iris Species Dataset, MNIST Handwritten Digits, Amazon Product Reviews (simulated/sample)
